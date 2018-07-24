@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: DynNom\nType: Package\nTitle: A Dynamic Nomogram for Linear and Generalized Linear Models as Shiny Applications\nVersion: 1.0\nDate: 2014-08-05\nAuthor: Amirhossein Jalali, Alberto Alvarez-Iglesias, John Newell\nDepends:\n    ggplot2,\n    stargazer,\n    shiny,\n    compare\nMaintainer: Amirhossein Jalali <a.jalali2@nuigalway.ie>\nDescription: The DynNom function makes it possible to present the results of an\n    lm or glm model object as a dynamic nomogram that can be displayed in an R\n    Studio panel or web browser.\nLicense: GPL-2\nPackaged: 2014-08-20 13:20:56 UTC; 13239018\n",
+    "created" : 1412423371245.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2781142552",
+    "id" : "4BC2AD24",
+    "lastKnownWriteTime" : 1412423393,
+    "path" : "C:/Users/13239018/Dropbox/R scripts/Shiny/DynNom actionButton/DynNom/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
